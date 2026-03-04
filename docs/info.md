@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The inputs are taken from 8 switches, are put through either a NAND, AND or NOT gate, and turn on the LEDs in the shape of the letter A with hte correct combination of ON switches.
 
 ## How to test
 
-Explain how to use your project
+You have to switch on 2,3 and 4. 1 may or may not be switched on, this does not change the LEDs.
 
 ## External hardware
 
